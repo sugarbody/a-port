@@ -1,6 +1,6 @@
 export const contactsData = {
-    email: 'abdulmohammad429@hotmail.com',
-    phone: '+1 (312) 725-8993',
+    email: 'abdulmohammad17@hotmail.com',
+    phone: '+1 (917) 963-8291',
     address: 'PLAINFIELD, IL 60544',
 
     sheetAPI: ''
